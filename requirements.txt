@@ -21,4 +21,5 @@ pycaw
 comtypes
 screen-brightness-control
 aiofiles
-github
+PyGithub
+pillow
